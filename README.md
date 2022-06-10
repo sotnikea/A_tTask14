@@ -55,9 +55,9 @@ ___
 **`std::map`**:
 | Операція | Average Time Complexity | Worst Time Complexity |
 | -------- | ----------------------- | --------------------- |
-|  Пошук   | log(n)                  | log(n)                |
-|Додавання | log(n)                  | log(n)                |
-|Видалення | log(n)                  | log(n)                |
+|  Пошук   | O(log(n))               | O(log(n))             |
+|Додавання | O(log(n))               | O(log(n))             |
+|Видалення | O(log(n))               | O(log(n))             |
 
 **`std::unordered_map`**:
 | Операція | Average Time Complexity | Worst Time Complexity |
